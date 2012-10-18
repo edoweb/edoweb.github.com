@@ -8,3 +8,7 @@ or
 1. git clone https://github.com/edoweb/maven-repo.git
 2. cd $EDOWEB2_HOME
 3. mvn  mvn -DaltDeploymentRepository=snapshot-repo::default::file:///$MAVEN-REPO_HOME/snapshots clean deploy
+4. cd $MAVEN-REPO_HOME
+5. git add *
+6. git commit -a
+7. git push
