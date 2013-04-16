@@ -1,0 +1,24 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Apr 16 11:41:21 CEST 2013
+http\://repo1.maven.org/.error=
+http\://repo1.maven.org/.lastUpdated=1366105281578
+https\://repository.apache.org/snapshots/.lastUpdated=1366105281208
+http\://people.apache.org/repo/m2-incubating-repository/.lastUpdated=1366105281551
+http\://edoweb.github.com/snapshots/.error=
+http\://edoweb.github.com/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1366105278662
+https\://m2.duraspace.org/content/repositories/thirdparty/.error=
+http\://download.java.net/maven/2/.lastUpdated=1366105279940
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+http\://people.apache.org/repo/m2-incubating-repository/.error=
+https\://m2.duraspace.org/content/repositories/releases/.lastUpdated=1366105279361
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1366105278426
+https\://repository.apache.org/content/groups/public/.error=
+https\://repository.apache.org/content/groups/public/.lastUpdated=1366105280697
+http\://edoweb.github.com/snapshots/.lastUpdated=1366105277867
+http\://edoweb.github.com/releases/.lastUpdated=1366105277338
+https\://m2.duraspace.org/content/repositories/releases/.error=
+https\://repository.apache.org/snapshots/.error=
+https\://m2.duraspace.org/content/repositories/thirdparty/.lastUpdated=1366105279655
