@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jun 07 08:52:58 CEST 2013
+jsonld-java-sesame-0.2-SNAPSHOT.jar>=
+jsonld-java-sesame-0.2-SNAPSHOT-tests.jar>=
+jsonld-java-sesame-0.2-SNAPSHOT.pom>=

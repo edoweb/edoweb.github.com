@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.jsonld-java</groupId>
+  <artifactId>jsonld-java-sesame</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130607065258</lastUpdated>
+  </versioning>
+</metadata>
