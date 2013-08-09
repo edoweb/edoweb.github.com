@@ -7,17 +7,17 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20130802105901</lastUpdated>
+    <lastUpdated>20130809054248</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>regal-0.1.0-SNAPSHOT</value>
-        <updated>20130802105901</updated>
+        <updated>20130809054248</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>regal-0.1.0-SNAPSHOT</value>
-        <updated>20130802105901</updated>
+        <updated>20130809054248</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
