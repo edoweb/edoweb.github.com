@@ -1,7 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Sep 06 15:28:22 CEST 2013
-http\://edoweb.github.com/releases/.lastUpdated=1378474102865
-default-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1378474093514
-http\://m2.duraspace.org/content/repositories/thirdparty/.lastUpdated=1378474094005
-http\://m2.duraspace.org/content/repositories/thirdparty/.error=
-https\://oss.sonatype.org/content/repositories/snapshots/.error=Could not transfer artifact org.culturegraph\:metafacture-core\:jar\:regal-1.1.0-SNAPSHOT from/to com.hypnoticocelot (https\://oss.sonatype.org/content/repositories/snapshots/)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
