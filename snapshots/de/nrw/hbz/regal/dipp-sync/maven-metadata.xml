@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.nrw.hbz.regal</groupId>
+  <artifactId>dipp-sync</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131114075508</lastUpdated>
+  </versioning>
+</metadata>
