@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>de.nrw.hbz.regal</groupId>
+  <artifactId>regal</artifactId>
+  <version>0.4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140214.122846</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140214122846</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.4.0-20140214.122846-1</value>
+        <updated>20140214122846</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
